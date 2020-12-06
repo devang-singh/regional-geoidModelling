@@ -1,4 +1,4 @@
-# regional-geoidModelling
+# Regional Geoid Modelling
 
 The project contains a release folder.
 To run the file, download the pre-release.
