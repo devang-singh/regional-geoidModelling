@@ -1,5 +1,11 @@
 # Regional Geoid Modelling
 
+Project members : 
+
+1. Pankaj Saini
+1. Devang Singh
+1. Lokesh Meena
+
 The project contains a release folder.
 To run the file, download the pre-release.
 
